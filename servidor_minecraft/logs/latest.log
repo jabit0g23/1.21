@@ -29,3 +29,14 @@
 [02:08:34] [Server thread/INFO]: T0m4slonko[/[0:0:0:0:0:0:0:1%0]:53332] logged in with entity id 8459 at (77.5, 72.0, -23.5)
 [02:08:34] [Server thread/INFO]: T0m4slonko joined the game
 [02:08:59] [Server thread/INFO]: [Not Secure] <P0C0Y00> wena
+[02:24:15] [Server thread/WARN]: P0C0Y00 was kicked for floating too long!
+[02:24:15] [Server thread/INFO]: P0C0Y00 lost connection: Flying is not enabled on this server
+[02:24:15] [Server thread/INFO]: P0C0Y00 left the game
+[02:24:15] [Server thread/WARN]: handleDisconnection() called twice
+[02:24:45] [Server thread/INFO]: P0C0Y00[/[0:0:0:0:0:0:0:1%0]:46396] logged in with entity id 11624 at (66.00624814286707, 73.00133597911214, -15.778771448530748)
+[02:24:45] [Server thread/INFO]: P0C0Y00 joined the game
+[02:26:01] [Server thread/INFO]: T0m4slonko has made the advancement [Stone Age]
+[02:31:36] [Server thread/INFO]: T0m4slonko lost connection: Timed out
+[02:31:36] [Server thread/INFO]: T0m4slonko left the game
+[02:32:00] [Server thread/INFO]: P0C0Y00 lost connection: Timed out
+[02:32:00] [Server thread/INFO]: P0C0Y00 left the game
